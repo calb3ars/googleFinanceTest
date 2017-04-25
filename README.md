@@ -1,1 +1,2 @@
-# googleFinanceTest
+* npm install
+* mocha test
